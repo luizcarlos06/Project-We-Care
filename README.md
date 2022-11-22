@@ -9,6 +9,6 @@
 
   <img src = "https://github.com/LuizCGsilva/Project-We-Care/blob/master/img/mobilepet.png?raw=true">
   
-  <br>
+  <br><br><br>
 
   <img src = "https://github.com/LuizCGsilva/Project-We-Care/blob/master/img/mobilepet.png?raw=true">
