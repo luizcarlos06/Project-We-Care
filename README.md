@@ -10,4 +10,5 @@
   <img src = "https://github.com/LuizCGsilva/Project-We-Care/blob/master/img/mobilepet.png?raw=true">
   
   <br>
-  <img src = " https://github.com/LuizCGsilva/Project-We-Care/blob/master/img/telapet.png?raw=true">
+
+  <img src = "https://github.com/LuizCGsilva/Project-We-Care/blob/master/img/mobilepet.png?raw=true">
