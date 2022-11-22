@@ -7,7 +7,7 @@
 <h2>Este projeto foi em desenvolvido durante estudo de HTML com CSS <h2>
 <br>
 
-  <img src = "https://github.com/LuizCGsilva/Project-We-Care/blob/master/img/mobilepet.png?raw=true">
+  <img src = "https://github.com/LuizCGsilva/Project-We-Care/blob/master/img/desktoppet.png?raw=true">
   
   <br><br><br>
 
